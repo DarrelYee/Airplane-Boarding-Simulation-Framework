@@ -1,4 +1,4 @@
-# Airplane-Boarding-Simulation-Framework
+# Airplane Boarding Simulation Framework
 
 ## About
 This project attempts to be an exetensible module for simulating various methods for airplane boarding.
